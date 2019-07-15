@@ -1,5 +1,5 @@
 # TGS-Salt-Identification-Challenge
-TGS Salt Identification is a challenge using U-Net model for Semantic Segmentation using Tensorflow 2.0. 
+TGS Salt Identification challenge using U-Net model for Semantic Segmentation using Tensorflow 2.0. 
 
 Overview from Kaggle.com:
 
