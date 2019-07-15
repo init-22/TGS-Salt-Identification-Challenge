@@ -16,6 +16,7 @@ The model achieved 0.0683 loss and  97% accuracy on training data and 1458 loss 
 Download the data from the link below.
 
 Reference: 
+
 U-Net: Convolutional Networks for Biomedical Image Segmentation: https://arxiv.org/abs/1505.04597
 
 Understanding Semantic Segmentation with UNET: https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47
