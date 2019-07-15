@@ -9,7 +9,7 @@ I tried to replicate the U-Net without using much functions in the model so that
 
 Many important techniques are being used in the model such as Transpose Convolution, adding skip connections, EarlyStopping, reducing the learning using ReduceLROnPlateau etc. Used a binary-corssentropy because we just have to segment if the salt is present or not (0 or 1).
 
-The model achieved 0.0683 loss and  97% accuracy on training data and 1458 loss and 90% accuracy on validation data with 50 epochs.
+The model achieved 0.0683 loss and  97% accuracy on training data and 0.1458 loss and 90% accuracy on validation data with 50 epochs.
 
 Download the data from the link below.
 
