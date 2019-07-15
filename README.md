@@ -7,9 +7,7 @@ Overview on Kaggle.com:
 
 I tried to replicate the U-Net without using much functions in the model so that anybody can understand the architecuture in just one glance and can change/modify it if required.
 
-Used a binary-corssentropy because we just have to segment if the salt is present or not (0 or 1).
-
-Many important techniques are being used in the model such as Transpose Convolution, adding skip connections, EarlyStopping, reducing the learning using ReduceLROnPlateau etc.
+Many important techniques are being used in the model such as Transpose Convolution, adding skip connections, EarlyStopping, reducing the learning using ReduceLROnPlateau etc. Used a binary-corssentropy because we just have to segment if the salt is present or not (0 or 1).
 
 The model achieved 0.0683 loss and  97% accuracy on training data and 1458 loss and 90% accuracy on validation data with 50 epochs.
 
@@ -17,7 +15,9 @@ Download the data from the link below.
 
 Reference: 
 
-U-Net: Convolutional Networks for Biomedical Image Segmentation: https://arxiv.org/abs/1505.04597
+U-Net: Convolutional Networks for Biomedical Image Segmentation(Paper): https://arxiv.org/abs/1505.04597
+
+U-Net: Convolutional Networks for Biomedical Image Segmentation(Video): https://www.youtube.com/watch?v=81AvQQnpG4Q
 
 Understanding Semantic Segmentation with UNET: https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47
 
