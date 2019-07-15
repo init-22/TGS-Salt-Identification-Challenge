@@ -1,5 +1,5 @@
 # TGS-Salt-Identification-Challenge
-TGS Salt Identification is a challenge on Kaggle.com.
+TGS Salt Identification is a challenge using U-Net model for Semantic Segmentation. 
 
 Overview on Kaggle.com:
 
@@ -9,7 +9,7 @@ I tried U-Net architecure to segment area using a binary-corssentropy because we
 
 I tried to replicate the U-Net without using much functions in the model so that anybody can understand the architecuture in just one glance and can change/modify it if required.
 
-Many good techniques are being used in the model such as Transpose Convolution, adding skip connection by concatenation, EarlyStopping, reducing the learning using ReduceLROnPlateau etc.
+Many good techniques are being used in the model such as Transpose Convolution, adding skip connections, EarlyStopping, reducing the learning using ReduceLROnPlateau etc.
 
 The model achieved 0.0683 loss and  97% accuracy on training data and 1458 loss and 90% accuracy on validation data with 50 epochs.
 
@@ -29,4 +29,5 @@ Let me know if you need help in understanding U-Net.
 
 
 Isaac,
+
 https://www.linkedin.com/in/isaac-patole/
