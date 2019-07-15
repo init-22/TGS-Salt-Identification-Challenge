@@ -1,9 +1,9 @@
 # TGS-Salt-Identification-Challenge
 TGS Salt Identification is a challenge on Kaggle.com.
 
-Problem statement on Kaggle.com:
+Overview on Kaggle.com:
 
-'Several areas of Earth with large accumulations of oil and gas also have huge deposits of salt below the surface. But unfortunately, knowing where large salt deposits are precisely is very difficult. Professional seismic imaging still requires expert human interpretation of salt bodies. This leads to very subjective, highly variable renderings. More alarmingly, it leads to potentially dangerous situations for oil and gas company drillers..
+'Several areas of Earth with large accumulations of oil and gas also have huge deposits of salt below the surface. But unfortunately, knowing where large salt deposits are precisely is very difficult. Professional seismic imaging still requires expert human interpretation of salt bodies. This leads to very subjective, highly variable renderings.'
 
 I tried U-Net architecure to segment area using a binary-corssentropy because we just have to segment if the salt is present or not (0 or 1).
 
