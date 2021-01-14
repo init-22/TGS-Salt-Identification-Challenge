@@ -28,8 +28,3 @@ Tutorial on Subplots: https://www.youtube.com/watch?v=afITiFR6vfw&t=486s
 
 Let me know if you need help in understanding U-Net.
 
-
-
-Isaac,
-
-https://www.linkedin.com/in/isaac-patole/
