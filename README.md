@@ -5,7 +5,7 @@ Overview from Kaggle.com:
 
 'Several areas of Earth with large accumulations of oil and gas also have huge deposits of salt below the surface. But unfortunately, knowing where large salt deposits are precisely is very difficult. Professional seismic imaging still requires expert human interpretation of salt bodies. This leads to very subjective, highly variable renderings.'
 
-I tried to replicate the U-Net without using much functions in the model so that anybody can understand the architecture in just one glance and can change/modify it if required.
+I implemented a simple U-Net model so that anybody can understand the architecture in just one glance and can change/modify it if required.
 
 Many important techniques are being used in the model such as Transpose Convolution, adding skip connections, EarlyStopping, reducing the learning using ReduceLROnPlateau etc. Used a binary-corssentropy because we just have to segment if the salt is present or not (0 or 1).
 
