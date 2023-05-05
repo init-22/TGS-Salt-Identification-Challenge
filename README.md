@@ -24,7 +24,3 @@ Understanding Semantic Segmentation with UNET: https://towardsdatascience.com/un
 Link to the Dataset on Kaggle.com: https://www.kaggle.com/c/tgs-salt-identification-challenge/
 
 Tutorial on Subplots: https://www.youtube.com/watch?v=afITiFR6vfw&t=486s
-
-
-Let me know if you need help in understanding U-Net.
-
